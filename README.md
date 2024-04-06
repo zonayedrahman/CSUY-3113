@@ -1,1 +1,1 @@
-# CSUY-3113
+Game using OpenGL library in C++
